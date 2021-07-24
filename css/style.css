@@ -1,0 +1,183 @@
+.container-fluid{padding-left: 0px;padding-right: 0px;}
+body {
+    background-color: #202020;
+
+}
+nav {
+  width: 100%;
+}
+nav.navbar {
+  background-color: #CD113B; 
+font-family: 'Encode Sans SC', sans-serif;
+font-weight: bold; 
+}
+  nav.navbar a {
+    color: white; }
+
+header {
+  background-color: white; }
+
+.slideModicicaciones{
+  color:#E8E8E8;
+  font-family: 'Encode Sans SC', sans-serif;
+  font-weight: lighter;
+  text-shadow: 2px 2px 2px black;
+  }
+.encabezado{
+  color: #E8E8E8;
+  font-family: 'Encode Sans SC', sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px red;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+footer {
+  background-color: #DA0037;
+  margin-top: 15px; }
+
+h5 {
+  color: #E8E8E8;
+  font-size: 40px; }
+
+.boton, .boton-conoce {
+  width: 70px;
+  background-color: blue;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+  border: 1 px solid black;
+  font-size: 18px;
+  color: black; }
+
+.boton-conoce {
+  background-color: red;
+  color: white; }
+
+.encabezado {
+  font-size: 40px;
+  font-style: "bold";
+  font-margin-top: .5rem;
+  text-align: center; }
+
+/*map-get*/
+.card-deck {
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.cambiosSection {
+  height: 20%;
+  margin-top: 20px;
+  margin-bottom: 40px; 
+  color:#DA0037;
+  font-family: 'Encode Sans SC', sans-serif;
+  font-weight: lighter;}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+footer {
+  width:100%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+img.pequenia {
+  width: 50px; height: 50px;
+  margin-bottom: 10px;
+
+}
+
+img.grande {
+  width: 70px;
+  height: 70px;
+}
+
+.novedades{
+  background-color: #444444;
+}
+.cambiosCard{
+  background-color: transparent;
+  font-family: 'Encode Sans SC', sans-serif;
+  font-weight: lighter;
+
+}
+
+.gradient-custom {
+  background: linear-gradient(to top, rgba(106, 133, 182, 0.6), rgba(186, 200, 224, 0.6))
+}
+
+.cambioaArtistas{
+  margin-top: 20px;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  
+}
+
+
+
+
+.colour-block {
+  background:#823A9C;
+  width:60%;
+  padding:7% 20% 10% 20%;
+  color:#fff;
+}
+.white-block {
+  background:#fff;
+  width:60%;
+  padding:7% 20% 10% 20%;
+  color:#823A9C;
+}
+
+}
+p {
+  font-size:20px;
+  font-family:'Raleway', serif;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../assets/img/headerEstuche.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+  color: #E8E8E8;
+  font-family: 'Encode Sans SC', sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px red;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 40px;
+  text-align: center;
+}
+ h3 {
+  text-align:center;
+  font-size:80px;
+  font-family:'Encode Sans SC', sans-serif
+  font-weight:normal;
+
+ }
+
+ 
